@@ -55,55 +55,66 @@ I help **startups and businesses** build a strong online presence — modern web
 ## 🛠 Tech Stack
 
 ### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css,cpp" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Design
-<p>
-<img src="https://skillicons.dev/icons?i=figma,ps,ai" />
-</p>
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 
 ### AI & Automation
-| AI | Automation |
-|----|------------|
-| OpenAI API · Claude · Gemini | n8n · Zapier · Make |
-| Prompt Engineering · AI Agents | Workflow Design · API Integrations |
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
 
 ### Dev & Deployment
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ### Creative Tools
-`DaVinci Resolve` &nbsp;·&nbsp; `CapCut` &nbsp;·&nbsp; `Canva`
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinci-resolve&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
- 
+
 <div align="center">
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rav-builds&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rav-builds&layout=compact&theme=tokyonight&hide_border=true"/>
+
 <br/>
+
 <img src="https://streak-stats.demolab.com?user=rav-builds&theme=tokyonight&hide_border=true"/>
+
 </div>
+
 ---
 
 ## 🎯 Beyond the Build
 
-When I'm not coding or designing, I'm deep in the creative side of things.
-
-- 🎬 &nbsp;Video editing — cuts, color grading, motion & storytelling
-- 🎨 &nbsp;Brand identity — logos, visual systems & design inspiration
-- ✂️ &nbsp;Short-form content editing for social media
-- 🤖 &nbsp;Experimenting with AI tools & new workflows
-- 📚 &nbsp;Learning something new every single week
+- 🎬 Video editing & color grading
+- 🎨 Branding & visual design
+- ✂️ Short-form content creation
+- 🤖 AI tools & workflows
+- 📚 Always learning something new
 
 ---
 
@@ -113,7 +124,7 @@ If you're working on something exciting and need help with **branding**, **web d
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-kumar-singh-3a0157397/)
 [![Gmail](https://img.shields.io/badge/Gmail-Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onlyravi4321@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-rav--builds-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rav-builds)
 
