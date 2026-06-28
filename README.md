@@ -1,18 +1,14 @@
 <div align="center">
 
-<img src="./rav.gif" width="100%" alt="Ravi Kumar Singh — AI Creative Engineer"/>
-
+<img src="https://raw.githubusercontent.com/rav-builds/github-assets/main/rav.gif" alt="Ravi Kumar Singh — AI Creative Engineer" width="100%">
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Archivo+Black&size=42&duration=4000&pause=1000&color=FFB000&center=true&vCenter=true&width=480&height=60&repeat=false&lines=hey%2C+i'm+RAVI" alt="name" />
-
-<sub><b>AI CREATIVE ENGINEER</b></sub>
-
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2500&pause=800&color=FFB000&center=true&vCenter=true&width=500&height=30&lines=still+learning.;still+building.;always+curious." alt="bio" />
 
 </div>
 
----
+<br/><br/>
 
 <div align="center">
 
@@ -24,7 +20,7 @@
 
 </div>
 
----
+<br/><br/>
 
 <div align="center">
 
@@ -36,7 +32,7 @@
 
 </div>
 
----
+<br/><br/>
 
 <div align="center">
 
@@ -53,7 +49,7 @@
 
 </div>
 
----
+<br/><br/>
 
 <div align="center">
 
@@ -67,9 +63,7 @@
 
 </div>
 
----
-
-<br/>
+<br/><br/>
 
 ### Currently Building
 
@@ -77,15 +71,18 @@
 - 🎨 **Brand Identity Systems** — end-to-end branding for startups
 - 🤖 **AI Automation** — n8n + LLM-powered workflows
 
-<br/>
+<br/><br/>
 
 <div align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com?user=rav-builds&theme=transparent&hide_border=true&ring=FFB000&fire=FFB000&currStreakLabel=FFB000&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" />
+
 <br/><br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-rav--builds-FFB000?style=for-the-badge&logo=github&logoColor=000&labelColor=0D0D0D)](https://github.com/rav-builds)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FFB000?style=for-the-badge&logo=linkedin&logoColor=000&labelColor=0D0D0D)](https://www.linkedin.com/in/ravi-kumar-singh-3a0157397/)
 <img src="https://komarev.com/ghpvc/?username=rav-builds&color=FFB000&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D0D0D" />
 
-<img src="https://media1.tenor.com/m/_xG2Vb6NEMsAAAAC/among-us-amogus.gif" width="25%"/>
+<img src="https://raw.githubusercontent.com/rav-builds/github-assets/main/footer.gif" alt="Footer GIF" width="100%">
+
 </div>
